@@ -1,0 +1,5 @@
+.:1053 {
+  reload
+  nodecache cache_path=./dns-cache up_addrs=8.8.8.8:53,8.8.4.4
+  debug
+}
